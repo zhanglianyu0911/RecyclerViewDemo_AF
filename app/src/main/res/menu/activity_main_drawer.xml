@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/shop"
+            android:title="SHOP" />
+        <item
+            android:id="@+id/nav_myAccount"
+            android:icon="@drawable/my_account"
+            android:title="MY ACCOUNT" />
+        <item
+            android:id="@+id/save"
+            android:icon="@drawable/save"
+            android:title="SAVE" />
+        <item
+            android:id="@+id/nav_massage"
+            android:icon="@drawable/message"
+            android:title="MESSAGE" />
+    </group>
+
+
+
+</menu>
